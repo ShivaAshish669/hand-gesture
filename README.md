@@ -1,6 +1,3 @@
-#Hand Gesture 
-To create a README file for your GitHub repository containing your hand gesture recognition project, you'll want to provide information that helps others understand the purpose of the project, how to use it, and any additional details they may need. Here's a basic template you can use:
-
 Hand Gesture Recognition for Drone Control
 This project utilizes hand gesture recognition to control a drone using a webcam. Hand gestures are detected in real-time using the MediaPipe library and interpreted as commands for the drone.
 
