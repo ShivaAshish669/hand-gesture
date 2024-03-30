@@ -9,9 +9,6 @@ M.Sumahas Reddy - sumahasreddymalkanelly@gmail.com
 B.Sai Ram Reddy - 99210041507@klu.ac.in
 B.Veeresh - 99210041692@klu.ac.in
 
-Description:
-This project aims to control a drone using hand gestures captured by a webcam. It employs deep learning techniques to recognize specific hand gestures, which are then translated into commands to control the drone's movement.
-
 Problem Solved:
 Traditionally, controlling a drone requires specialized controllers or mobile applications, which may not always be convenient or intuitive. This project solves the problem of complex drone control interfaces by offering a more natural and accessible method through hand gestures. By leveraging computer vision and deep learning, users can interact with the drone effortlessly using simple hand movements.
 
